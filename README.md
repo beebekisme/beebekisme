@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://beebekisme.vercel.app/cv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebekisme&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
+</p>
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31saxqiumbrrteeuvmu3xnrj5hzm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31saxqiumbrrteeuvmu3xnrj5hzm&redirect=true)
