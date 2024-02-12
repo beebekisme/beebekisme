@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://beebekisme.vercel.app/cv">
     <img src="https://skillicons.dev/icons?i=git,astro,docker,c,ae,bevy,fastapi,godot,html,js,linux,opencv,py,rust" />
   </a>
 </p>
