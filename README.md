@@ -1,1 +1,7 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,astro,docker,c,ae,bevy,fastapi,godot,html,js,linux,opencv,py,rust" />
+  </a>
+</p>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31saxqiumbrrteeuvmu3xnrj5hzm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31saxqiumbrrteeuvmu3xnrj5hzm&redirect=true)
